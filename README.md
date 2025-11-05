@@ -1,3 +1,3 @@
-# Slope chart
+# Slope Chart
 
 ![img](./slope_chart.png)
